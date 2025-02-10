@@ -1,13 +1,14 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=FF4500&center=true&vCenter=true&lines=ZERO+TWO+FREE+V4.0;BOT+MULTI+DEVICE;+1000+COMANDOS+2025;@lucas_mod_domina+Official" alt="Zero-Two-Free">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝐙𝐄𝐑𝐎-𝐓𝐖𝐎+𝐕4.0✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2025;𝕷𝖚𝖈𝖆𝖘-𝖒𝖔𝖉-𝖉𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
-<img src="https://api.telegram.org/file/bot6369612385:AAGvQkKlh_BHBJbs9zH8rorSM84W9xQwlno/photos/file_216.jpg" alt="Zero-Two-Free" width="800">
-</h1>
+<p>
+<img src= "https://api.telegram.org/file/bot6369612385:AAGvQkKlh_BHBJbs9zH8rorSM84W9xQwlno/photos/file_216.jpg" alt="ZERO TWO FREE V4.0✓" width="720">
+</p>
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/BOT-MULTI--DEVICE-blue?style=for-the-badge" alt="BOT MULTI DEVICE"></a>
 <a href="#"><img src="https://img.shields.io/badge/Autor-@lucas_mod_domina-orange?style=for-the-badge&logo=github" alt="Autor"></a>
-<a href="#"><img src="https://img.shields.io/badge/Versão-V2.0-orange?style=for-the-badge&logo=github" alt="Versão"></a>
+<a href="#"><img src="https://img.shields.io/badge/Versão-V4.0-orange?style=for-the-badge&logo=github" alt="Versão"></a>
 </p>
 
 ---
@@ -16,7 +17,7 @@
 
 <p align="center">
 <a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank">
-<img src="https://api.telegram.org/file/bot6369612385:AAGvQkKlh_BHBJbs9zH8rorSM84W9xQwlno/photos/file_216.jpg" alt="Vídeo do Bot" width="700">
+<img src="https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="Vídeo do Bot" width="700">
 </a>
 </p>
 
@@ -92,4 +93,4 @@ Se encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir 
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=00FA9A&center=true&vCenter=true&lines=Conecte-se+e+divirta-se+com+@lucas_mod_domina;Transformando+Ideias+em+Realidade;Seu+Novo+Bot+Favorito+está+aqui!" alt="Encerramento">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FA9A&center=falso&vCenter=falso&lines=𝖆+𝕽𝖊𝖆𝖑𝖊𝖟𝖆+𝕯𝖔𝖒𝖎𝖓𝖆^-^;@lucas_mod_domina;𝕷𝖚𝖈𝖆𝖘-𝖒𝖔𝖉-𝖉𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">     
