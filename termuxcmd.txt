@@ -1,0 +1,29 @@
+//_-_-_-_-_-_-_-_-_-_-_-_-(COMANDOS TERMUX)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+
+💞 [1] termux-setup-storage
+- permte o acesso ao seu armazenamento
+
+💞 [2] de o comando de diretórios
+
+💞 [3] sh install.sh
+
+//_-_-_-_-_-_-_-_-_-_-_-_-(COMANDOS DIRETÓRIO)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+💞 [14] cd /sdcard/nomedobot
+💞 [15] cd /sdcard/download/nomedobot
+
+//_-_-_-_-_-_-_-_-_-_-_-_-(COMANDOS INICIALIZAÇÃO)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+💞 [1] sh start.sh
+- inicia a conexão por qrcode 
+
+💞 [2] sh start.sh sim
+- inicia a conexão por código
+
+//_-_-_-_-_-_-_-_-_-_-_-_-(CRÉDITOS)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+by: 𖧄 𝐋𝐔𝐂𝐀𝐒 𝐌𝐎𝐃 𝐃𝐎𝐌𝐈𝐍𝐀 𖧄
+whats: +55 94 99156-9380
+caanl: @Otaku.mp4
+insta: @lucas_mod_domina
+Github: https://github.com/Otakump4
+
+//_-_-_-_-_-_-_-_-_-_-_-_-(DIREITOS AUTORAIS)_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--\\
+Direitos Autorais © [2025] Equipe Zero Two
