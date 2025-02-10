@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://api.telegram.org/file/bot6369612385:AAGvQkKlh_BHBJbs9zH8rorSM84W9xQwlno/photos/file_216.jpg" alt="ZERO TWO FREE V4.0✓" width="720">
+<img src= "https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="ZERO TWO FREE V4.0✓" width="720">
 </p>
 
 <p align="center">
@@ -17,7 +17,10 @@
 
 <p align="center">
 <a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank">
-<img src="https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="Vídeo do Bot" width="700">
+  <div style="position: relative; display: inline-block;">
+    <img src="https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="Vídeo do Bot" width="700">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/YouTube_play_button_%28white%29.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 60px; height: 60px;">
+  </div>
 </a>
 </p>
 
