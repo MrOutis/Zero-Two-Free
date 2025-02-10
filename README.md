@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank">
-    <img src="https://zero-two.info/uploads/images/file-1739169354212-382718485.jpeg" alt="Assistir ao vídeo" width="250">
+    <img src="https://zero-two.info/uploads/images/file-1739169354212-382718485.jpeg" alt="Assistir ao vídeo" width="150">
   </a>
 </p>
 
