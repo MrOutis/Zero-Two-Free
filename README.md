@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=FF4500&center=true&vCenter=true&lines=ZERO+TWO+FREE+V4.0;BOT+MULTI+DEVICE;+1000+COMANDOS+2025;@lucas_mod_domina+Official" alt="Zero-Two-Free">
 
 <h1 align="center">
-<img src="https://api.telegram.org/file/bot6369612385:AAGvQkKlh_BHBJbs9zH8rorSM84W9xQwlno/photos/file_216.jpg" alt="Zero Two Free" width="800">
+<img src="https://api.telegram.org/file/bot6369612385:AAGvQkKlh_BHBJbs9zH8rorSM84W9xQwlno/photos/file_216.jpg" alt="Zero-Two-Free" width="800">
 </h1>
 
 <p align="center">
