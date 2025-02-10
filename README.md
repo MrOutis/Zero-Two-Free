@@ -16,16 +16,8 @@
 ## 🎥 Apresentação do Bot
 
 <p align="center">
-  <a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank">
-    <img src="https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="Vídeo do Bot" width="700">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank">
-    <button style="background-color:#4CAF50; color:white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
-      Assistir ao vídeo completo
-    </button>
+  <a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank" style="background-color:#4CAF50; color:white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">
+    Assistir ao vídeo completo
   </a>
 </p>
 
