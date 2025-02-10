@@ -16,12 +16,14 @@
 ## 🎥 Apresentação do Bot
 
 <p align="center">
-<a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank">
-  <div style="position: relative; display: inline-block;">
-    <img src="https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="Vídeo do Bot" width="700">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/YouTube_play_button_%28white%29.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 60px; height: 60px;">
-  </div>
-</a>
+  <a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank">
+    <div style="position: relative; display: inline-block;">
+      <!-- Miniatura do YouTube -->
+      <img src="https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="Vídeo do Bot" width="700">
+      <!-- Ícone de Play -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/YouTube_play_button_%28white%29.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100px; height: 100px;">
+    </div>
+  </a>
 </p>
 
 🔗 **[Assista ao vídeo completo aqui](https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G)**
