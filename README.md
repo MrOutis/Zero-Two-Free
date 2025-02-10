@@ -41,7 +41,7 @@ Siga os passos abaixo para instalar o bot:
 
 1. **Atualize e instale dependências:**
  ```bash
- pkg upgrade -y && pkg update -y && pkg install python -y && pkg install nodejs-lts -y && pkg install nodejs -y && pkg install git -y && pkg install ffmpeg -y && pkg install wget -y
+ apt-get upgrade && apt-get update && pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install git -y
  ```
 
 2. **Configure o armazenamento do Termux:**
