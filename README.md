@@ -13,15 +13,26 @@
 
 ---
 
-## 🎥 Apresentação do Bot
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apresentação do Bot</title>
+</head>
+<body>
+  <h2 align="center">🎥 Apresentação do Bot</h2>
 
-<p align="center">
-  <iframe width="700" height="394" src="https://www.youtube.com/embed/POF1hvDM8Sk?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+  <p align="center">
+    <iframe width="700" height="394" src="https://www.youtube.com/embed/POF1hvDM8Sk?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
-🔗 **[Assista ao vídeo completo aqui](https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G)**
+  <p align="center">
+    🔗 <strong><a href="https://youtu.be/POF1hvDM8Sk?si=MgX67I2P9aAgbq1G" target="_blank">Assista ao vídeo completo aqui</a></strong>
+  </p>
 
----
+</body>
+</html>
 
 ## 📥 Instalação no Termux
 
